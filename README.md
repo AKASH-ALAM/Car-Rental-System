@@ -11,32 +11,32 @@ tool shall ask the user for information such as the date and time of the journey
 Also, it will need an identification number. Using these details, the tool shall help the
 customer to book a car for the journey.
 
-# Product Features / Product Decomposition:
+### Product Features / Product Decomposition:
 The car rental system gives the following features to the customer:
 
-Renting Car:
+### Renting Car:
 The user has to fill up his contact information like name, address, and mobile number in the
 renter form.
 
-Online booking:
+### Online booking:
 Online booking is a great feature that gives a customer access to book their favorite
 cars. Customers can directly see the information about all the cars available for them
 and their prices.
 
-Less paperwork:
+### Less paperwork:
 By using this, it is easy to organize all the data, useful stuff, invoices, and rental agreements.
 
-Accurate information:
+### Accurate information:
 This system should provide up-to-date accurate information at any time. Increase
 processing speed and avoid errors.
 
-Equipment Configuration:
+### Equipment Configuration:
 Processor: Intel core/AMD
 RAM: 4GB
 Hard Disk: 05/10 GB
 Operating System: Windows/Linux/Unix
 
-Implementation Tools and Technology:
+### Implementation Tools and Technology:
 Microsoft Word (documentation)
 Code::blocks, Visual Studio code, Sublime text
 Object Oriented Programming Language: C++
