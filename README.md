@@ -31,13 +31,13 @@ This system should provide up-to-date accurate information at any time. Increase
 processing speed and avoid errors.
 
 ### Equipment Configuration:
-Processor: Intel core/AMD "\n"
-RAM: 4GB "\n"
-Hard Disk: 05/10 GB "\n"
-Operating System: Windows/Linux/Unix
+Processor: Intel core/AMD </br>
+RAM: 4GB </br>
+Hard Disk: 05/10 GB </br>
+Operating System: Windows/Linux/Unix </br>
 
 ### Implementation Tools and Technology:
-Microsoft Word (documentation) "\n"
-Code::blocks, Visual Studio code, Sublime text "\n"
-Object Oriented Programming Language: C++ "\n"
-Compiler: GNU C++ "\n"
+Microsoft Word (documentation) </br>
+Code::blocks, Visual Studio code, Sublime text </br>
+Object Oriented Programming Language: C++ </br>
+Compiler: GNU C++
